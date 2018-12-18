@@ -421,7 +421,7 @@ class Initiate:
             if path.isdir(Settings.current_directory + "output"):
                 try:
                     Helpers.Command("PyFunceble --clean", False).execute()
-                except:
+                except KeyError:
                     pass
 
             self.travis_permissions()
@@ -583,8 +583,8 @@ class Initiate:
             Helpers.Dict(Settings.informations).to_json(Settings.repository_info)
 
             try:
-                Helpers.Command(command_to_execute, True).execute_real_time()
-            except:
+                Helpers.Command(command_to_execute, True).execute()
+            except KeyError:
                 pass
 
             if Settings.ping:
@@ -812,7 +812,7 @@ class Helpers:  # pylint: disable=too-few-public-methods
             self.command = command
             self.stdout = allow_stdout
 
-        def _decode_output(self, to_decode):
+        def decode_output(self, to_decode):
             """Decode the output of a shell command in order to be readable.
 
             Arguments:
@@ -834,7 +834,7 @@ class Helpers:  # pylint: disable=too-few-public-methods
             (output, error) = process.communicate()
 
             if process.returncode != 0:
-                decoded = self._decode_output(error)
+                decoded = self.decode_output(error)
 
                 if not decoded:
                     return "Unkown error. for %s" % (self.command)
@@ -845,30 +845,7 @@ class Helpers:  # pylint: disable=too-few-public-methods
                 else:
                     return decoded
 
-            return self._decode_output(output)
-
-        def _get_real_time_lines(self):
-            """
-            Return the currently returned line (from the given command).
-            """
-
-            process = Popen(self.command, stdout=PIPE, shell=True)
-
-            while True:
-                current_line = process.stdout.readline().rstrip()
-
-                if not current_line:
-                    break
-                yield current_line.decode(self.decode_type)
-
-        def execute_real_time(self):
-            """
-            Execute the given command and return the output in real time
-            in our current stdout.
-            """
-
-            for line in self._get_real_time_lines():
-                print(line)
+            return self.decode_output(output)
 
     class Regex:  # pylint: disable=too-few-public-methods
 
