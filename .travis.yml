@@ -1,0 +1,35 @@
+env:
+  global:
+    - secure: SPtDQV9LM6b6Hk6fQfKqzuZiOV8ep2p63MwhcXEKOkSx7Yazme7DoZ+A7DOxT6Vd0bTIX7Xp68aNJYar90QFU6R+3SigIytiVlTpA28Z8UW5Evn7EiVMxnWiAo+v+CTwAEY2enbC8nzDJceu5bILxuqkPtdqwhaNTv3eXBWnbCJQagnnaIf68X/icrdhPA8qnlVXo05iU+MtSDJlrYiYEcF2YPPdIxMia7G7KDZfG2Ls2vaSW9u7ZLk/HYwLiBPbB5NDnUwXMFwM0CRUvl+BZHyDOMVoueuNbbsIdThEp67DNlq8FPIvLoC9QwK76J4oFuyfTmz1IROX0zpndYI0xC6LuyO2wCmAVPlvOgjfGNsjiDMNXvF8/GnjFRxxSJuEt5VUXGsMLmkZdqA/UiclAMdS4xmfPX+50NAsOn0Osdwz1upADI74VcQUwUbpObXo03MYe1eC0kH9PL4OjxVZGnavhcgRj6a8bAeJogBOIvAcBkIVqQYoKTgc0wyURAx9ZyYOZ1tD0gSAx1RCGaOgJenjBaqDJoGes4B/T4LPu3W/aBjuCKRFX2tOjB3MblwQ2cQ6ZH/ulzQQvO5bAIPEwj4mSA5AkguteO7/bVOYvgDzMNlIyuAeo/7EovmmfCQv9XuoUKmLMMabqbTPaERRjexhr4i4S16JmneA+mwJdc4=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: dead-hosts/hosts_google_adservice_id_git_kowith337
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - pip
+
+sudo: required
+
+addons:
+  apt:
+    packages:
+      - dos2unix
+
+install:
+  - pip3 install pyfunceble-dev
+
+script:
+  - python3 ./update_me.py
+
+notifications:
+  on_success:   change
+  on_failure:   always

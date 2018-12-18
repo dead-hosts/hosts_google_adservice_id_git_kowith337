@@ -1,0 +1,16 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of hosts_google_adservice_id",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "0",
+    "list_name": "hosts_google_adservice_id.list",
+    "name": "hosts_google_adservice_id",
+    "ping": [
+        "kowith337"
+    ],
+    "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt",
+    "stable": "0"
+}
