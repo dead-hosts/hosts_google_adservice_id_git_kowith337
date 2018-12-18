@@ -1,15 +1,20 @@
 env:
   global:
-    - secure: SPtDQV9LM6b6Hk6fQfKqzuZiOV8ep2p63MwhcXEKOkSx7Yazme7DoZ+A7DOxT6Vd0bTIX7Xp68aNJYar90QFU6R+3SigIytiVlTpA28Z8UW5Evn7EiVMxnWiAo+v+CTwAEY2enbC8nzDJceu5bILxuqkPtdqwhaNTv3eXBWnbCJQagnnaIf68X/icrdhPA8qnlVXo05iU+MtSDJlrYiYEcF2YPPdIxMia7G7KDZfG2Ls2vaSW9u7ZLk/HYwLiBPbB5NDnUwXMFwM0CRUvl+BZHyDOMVoueuNbbsIdThEp67DNlq8FPIvLoC9QwK76J4oFuyfTmz1IROX0zpndYI0xC6LuyO2wCmAVPlvOgjfGNsjiDMNXvF8/GnjFRxxSJuEt5VUXGsMLmkZdqA/UiclAMdS4xmfPX+50NAsOn0Osdwz1upADI74VcQUwUbpObXo03MYe1eC0kH9PL4OjxVZGnavhcgRj6a8bAeJogBOIvAcBkIVqQYoKTgc0wyURAx9ZyYOZ1tD0gSAx1RCGaOgJenjBaqDJoGes4B/T4LPu3W/aBjuCKRFX2tOjB3MblwQ2cQ6ZH/ulzQQvO5bAIPEwj4mSA5AkguteO7/bVOYvgDzMNlIyuAeo/7EovmmfCQv9XuoUKmLMMabqbTPaERRjexhr4i4S16JmneA+mwJdc4=
+    - secure: L45zrU5VyQPgFipvLcYBaYy3P7SsmT5JJ2uBbtIPFLl09kQhd/ht/xLDBBh/G/Ua/bcIS1mUcbk+EJLlk2AAGsvflo3EQjLIUB6c+j8dUs3MW1BqLG1q7O/OSJOxAyFSdGRkHed057JTlpjsVXy6Op5I32P4kdG0GKd9KEOAci3DnmJkT1ZaJchC/HGduvCDQ4y0PMuph9eOZ6dgmducg62fu62JSdMivYxhqtxHuIzNpurmAhcYaTvPEw7AGE62FrOxWu6ad/6fNzsJfUNlqiIZEJBiZHd4kcceNESBkEz0SeMKrjbAphqYS29Cj4w94NO/6HFo19O2bD4PMBOdYB6UfyxXZTmA4TgHC4Avp6aRidSx+p4afs0CxawTEl3tSgCH0AyhG1+E12sqKzgSsoWck0IdeQdF9kR9/Cl+4M1KpXCc8hdGe7sv+gV1bEF/tW5mjRtmUdtauR/IRqSaZtoP42WwSSVp9iur+QCYPlFEHlUviCEaCxH9f+4hAlz+yIPIDqLnuKHjjFManfUYGuPSfA2NUD+JNfcN6LPAmzM61cOJegFSp9wwdm0REL7MaSmeITbPYlwCBVgfdYLOeBe27Dt7eNG8ZDQCX4MLjQpmMnvTTTeyZdDEdiwOULOQC/FCeBFmioTkJGAE56P1UjH/p2CMrMCf+owpwmWAhyM=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/hosts_google_adservice_id_git_kowith337
     - GIT_BRANCH: master
+    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
+    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+
+dist: xenial
+sudo: required
 
 language: python
 
 python:
-  - "3.6.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
@@ -17,19 +22,22 @@ matrix:
 cache:
   - pip
 
-sudo: required
-
 addons:
   apt:
     packages:
       - dos2unix
 
 install:
-  - pip3 install pyfunceble-dev
+  - pip3 install --upgrade pip
+  - pip3 install requests
+
+before_script:
+  - if [[ ! -f .administrators ]]; then wget "${UPDATE_ME_LOCATION}" -o /dev/null -O update_me.py && chmod +x update_me.py; else echo "update_me not downloaded :)"; fi
+  - if [[ ! -f .administrators ]]; then wget "${ADMIN_LOCATION}" -o /dev/null -O admin.py && chmod +x admin.py; else echo "admin not downloaded :)"; fi
 
 script:
-  - python3 ./update_me.py
+  - python3 update_me.py
 
 notifications:
-  on_success:   change
-  on_failure:   always
+  on_success: change
+  on_failure: always
