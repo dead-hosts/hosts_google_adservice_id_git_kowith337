@@ -1,8 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_google_adservice_id_git_kowith337/hosts_google_adservice_id.list": {
-        "1555778277": [
+        "1555864756": [
             "adservice.google.cn",
+            "adservice.google.co.uz",
             "adservice.google.com.lc",
+            "id.google.co.uz",
             "id.google.com.lc",
             "id.l.google.ac",
             "id.l.google.ad",
