@@ -1,326 +1,218 @@
 {
-    "1558889887.7753022": {
+    "1559062713.844395": {
         "domain": "adservice.google.bg",
         "extension": "bg"
     },
-    "1558889890.291687": {
+    "1559062716.1102204": {
         "domain": "adservice.google.cc",
         "extension": "cc"
     },
-    "1558889892.3277323": {
+    "1559062720.3191578": {
         "domain": "adservice.google.ci",
         "extension": "ci"
     },
-    "1558889896.0595825": {
+    "1559062723.248516": {
         "domain": "adservice.google.co.cr",
         "extension": "cr"
     },
-    "1558889897.323073": {
+    "1559062723.9601607": {
         "domain": "adservice.google.co.ke",
         "extension": "ke"
     },
-    "1558889898.1343079": {
+    "1559062724.9093804": {
         "domain": "adservice.google.co.ls",
         "extension": "ls"
     },
-    "1558889899.6456785": {
+    "1559062725.9236443": {
         "domain": "adservice.google.com.ar",
         "extension": "ar"
     },
-    "1558889901.0765576": {
+    "1559062727.2403593": {
         "domain": "adservice.google.com.br",
         "extension": "br"
     },
-    "1558889903.8896847": {
+    "1559062730.7666407": {
         "domain": "adservice.google.com.gi",
         "extension": "gi"
     },
-    "1558889904.6239483": {
+    "1559062731.4322739": {
         "domain": "adservice.google.com.hk",
         "extension": "hk"
     },
-    "1558889909.2301977": {
+    "1559062735.8704062": {
         "domain": "adservice.google.com.qa",
         "extension": "qa"
     },
-    "1558889912.6374857": {
+    "1559062738.7619886": {
         "domain": "adservice.google.co.tz",
         "extension": "tz"
     },
-    "1558889913.6272678": {
+    "1559062739.8009727": {
         "domain": "adservice.google.co.uk",
         "extension": "uk"
     },
-    "1558889916.353233": {
+    "1559062744.6417406": {
         "domain": "adservice.google.dk",
         "extension": "dk"
     },
-    "1558889917.0838315": {
+    "1559062745.2315617": {
         "domain": "adservice.google.dm",
         "extension": "dm"
     },
-    "1558889917.8825417": {
+    "1559062745.895173": {
         "domain": "adservice.google.dz",
         "extension": "dz"
     },
-    "1558889919.4375358": {
+    "1559062747.532067": {
         "domain": "adservice.google.gf",
         "extension": "gf"
     },
-    "1558889921.922068": {
+    "1559062749.6807578": {
         "domain": "adservice.google.im",
         "extension": "im"
     },
-    "1558889923.9752805": {
+    "1559062751.4804482": {
         "domain": "adservice.google.kz",
         "extension": "kz"
     },
-    "1558889925.1032956": {
+    "1559062752.5426176": {
         "domain": "adservice.google.lt",
         "extension": "lt"
     },
-    "1558889927.6429555": {
+    "1559062754.624386": {
         "domain": "adservice.google.mg",
         "extension": "mg"
     },
-    "1558889928.2245264": {
+    "1559062755.252673": {
         "domain": "adservice.google.mk",
         "extension": "mk"
     },
-    "1558889929.1584313": {
+    "1559062756.1273313": {
         "domain": "adservice.google.ml",
         "extension": "ml"
     },
-    "1558889930.0005355": {
+    "1559062757.080348": {
         "domain": "adservice.google.mn",
         "extension": "mn"
     },
-    "1558889935.171531": {
+    "1559062760.9627266": {
         "domain": "adservice.google.td",
         "extension": "td"
     },
-    "1558889936.7469394": {
+    "1559062762.5307903": {
         "domain": "adservice.google.tl",
         "extension": "tl"
     },
-    "1558889938.0211866": {
+    "1559062763.7946844": {
         "domain": "adservice.google.vu",
         "extension": "vu"
     },
-    "1558889940.5205586": {
+    "1559062766.2532423": {
         "domain": "id.google.bg",
         "extension": "bg"
     },
-    "1558889942.333698": {
+    "1559062767.5964882": {
         "domain": "id.google.cc",
         "extension": "cc"
     },
-    "1558889943.7850413": {
+    "1559062768.6652026": {
         "domain": "id.google.ci",
         "extension": "ci"
     },
-    "1558889945.9085903": {
+    "1559062771.118936": {
         "domain": "id.google.co.cr",
         "extension": "cr"
     },
-    "1558889946.6592267": {
+    "1559062772.1090841": {
         "domain": "id.google.co.ke",
         "extension": "ke"
     },
-    "1558889947.4138126": {
+    "1559062773.0717065": {
         "domain": "id.google.co.ls",
         "extension": "ls"
     },
-    "1558889948.357538": {
+    "1559062774.1190972": {
         "domain": "id.google.com.ar",
         "extension": "ar"
     },
-    "1558889949.8235753": {
+    "1559062775.534656": {
         "domain": "id.google.com.br",
         "extension": "br"
     },
-    "1558889952.3921459": {
+    "1559062778.2087834": {
         "domain": "id.google.com.gi",
         "extension": "gi"
     },
-    "1558889953.4012856": {
+    "1559062778.8584688": {
         "domain": "id.google.com.hk",
         "extension": "hk"
     },
-    "1558889957.6915934": {
+    "1559062782.804284": {
         "domain": "id.google.com.qa",
         "extension": "qa"
     },
-    "1558889960.198142": {
+    "1559062784.9383624": {
         "domain": "id.google.co.tz",
         "extension": "tz"
     },
-    "1558889960.923762": {
+    "1559062785.5882738": {
         "domain": "id.google.co.uk",
         "extension": "uk"
     },
-    "1558889963.4445376": {
+    "1559062787.7186847": {
         "domain": "id.google.dk",
         "extension": "dk"
     },
-    "1558889963.9981463": {
+    "1559062788.289254": {
         "domain": "id.google.dm",
         "extension": "dm"
     },
-    "1558889964.6801426": {
+    "1559062788.95935": {
         "domain": "id.google.dz",
         "extension": "dz"
     },
-    "1558889965.9782505": {
+    "1559062790.443891": {
         "domain": "id.google.gf",
         "extension": "gf"
     },
-    "1558889968.1115055": {
+    "1559062792.4438992": {
         "domain": "id.google.im",
         "extension": "im"
     },
-    "1558889969.8232205": {
+    "1559062793.9909492": {
         "domain": "id.google.kz",
         "extension": "kz"
     },
-    "1558889970.7570767": {
+    "1559062794.975488": {
         "domain": "id.google.lt",
         "extension": "lt"
     },
-    "1558889972.130463": {
+    "1559062796.2075212": {
         "domain": "id.google.mg",
         "extension": "mg"
     },
-    "1558889972.7277312": {
+    "1559062796.8218691": {
         "domain": "id.google.mk",
         "extension": "mk"
     },
-    "1558889973.518104": {
+    "1559062797.591454": {
         "domain": "id.google.ml",
         "extension": "ml"
     },
-    "1558889974.311434": {
+    "1559062798.5453217": {
         "domain": "id.google.mn",
         "extension": "mn"
     },
-    "1558889977.9413433": {
+    "1559062801.5233955": {
         "domain": "id.google.td",
         "extension": "td"
     },
-    "1558889979.7138638": {
+    "1559062803.1847603": {
         "domain": "id.google.tl",
         "extension": "tl"
     },
-    "1558889980.8368478": {
+    "1559062804.736087": {
         "domain": "id.google.vu",
-        "extension": "vu"
-    },
-    "1558889983.256113": {
-        "domain": "id.l.google.bg",
-        "extension": "bg"
-    },
-    "1558889984.5944116": {
-        "domain": "id.l.google.cc",
-        "extension": "cc"
-    },
-    "1558889985.7537012": {
-        "domain": "id.l.google.ci",
-        "extension": "ci"
-    },
-    "1558889987.4839232": {
-        "domain": "id.l.google.co.cr",
-        "extension": "cr"
-    },
-    "1558889988.574995": {
-        "domain": "id.l.google.co.ke",
-        "extension": "ke"
-    },
-    "1558889989.305367": {
-        "domain": "id.l.google.co.ls",
-        "extension": "ls"
-    },
-    "1558889990.3501787": {
-        "domain": "id.l.google.co.tz",
-        "extension": "tz"
-    },
-    "1558889991.0697508": {
-        "domain": "id.l.google.co.uk",
-        "extension": "uk"
-    },
-    "1558889992.5964053": {
-        "domain": "id.l.google.com.ar",
-        "extension": "ar"
-    },
-    "1558889994.0293026": {
-        "domain": "id.l.google.com.br",
-        "extension": "br"
-    },
-    "1558889995.731158": {
-        "domain": "id.l.google.com.gi",
-        "extension": "gi"
-    },
-    "1558889996.5978765": {
-        "domain": "id.l.google.com.hk",
-        "extension": "hk"
-    },
-    "1558889999.9104707": {
-        "domain": "id.l.google.com.qa",
-        "extension": "qa"
-    },
-    "1558890002.2551262": {
-        "domain": "id.l.google.dk",
-        "extension": "dk"
-    },
-    "1558890002.9118888": {
-        "domain": "id.l.google.dm",
-        "extension": "dm"
-    },
-    "1558890003.950881": {
-        "domain": "id.l.google.dz",
-        "extension": "dz"
-    },
-    "1558890005.3057835": {
-        "domain": "id.l.google.gf",
-        "extension": "gf"
-    },
-    "1558890007.0526745": {
-        "domain": "id.l.google.im",
-        "extension": "im"
-    },
-    "1558890008.4843254": {
-        "domain": "id.l.google.kz",
-        "extension": "kz"
-    },
-    "1558890009.4605854": {
-        "domain": "id.l.google.lt",
-        "extension": "lt"
-    },
-    "1558890010.6469896": {
-        "domain": "id.l.google.mg",
-        "extension": "mg"
-    },
-    "1558890011.3417597": {
-        "domain": "id.l.google.mk",
-        "extension": "mk"
-    },
-    "1558890011.9548984": {
-        "domain": "id.l.google.ml",
-        "extension": "ml"
-    },
-    "1558890012.5782862": {
-        "domain": "id.l.google.mn",
-        "extension": "mn"
-    },
-    "1558890016.577525": {
-        "domain": "id.l.google.td",
-        "extension": "td"
-    },
-    "1558890017.385259": {
-        "domain": "id.l.google.tl",
-        "extension": "tl"
-    },
-    "1558890018.5146034": {
-        "domain": "id.l.google.vu",
         "extension": "vu"
     }
 }
