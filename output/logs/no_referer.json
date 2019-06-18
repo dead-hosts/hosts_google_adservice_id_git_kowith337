@@ -1,10 +1,14 @@
 {
-    "1560704771.9648776": {
+    "1560877972.377278": {
         "domain": "adservice.google.com.ec",
         "extension": "ec"
     },
-    "1560704808.997028": {
+    "1560878013.938016": {
         "domain": "id.google.com.ec",
+        "extension": "ec"
+    },
+    "1560878051.5328574": {
+        "domain": "id.l.google.com.ec",
         "extension": "ec"
     }
 }
