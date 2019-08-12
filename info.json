@@ -1,16 +1,21 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of hosts_google_adservice_id",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1565544778",
-    "list_name": "hosts_google_adservice_id.list",
-    "name": "hosts_google_adservice_id",
+    "currently_under_test": false,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "2019-08-12T12:50:23.019921",
+    "finish_timestamp": 1565614223.019921,
+    "last_download_datetime": "2019-08-12T12:49:25.661524",
+    "last_download_timestamp": 1565614165.661524,
+    "latest_part_finish_datetime": "2019-08-12T12:50:23.019921",
+    "latest_part_finish_timestamp": 1565614223.019921,
+    "latest_part_start_datetime": "2019-08-12T12:49:26.377263",
+    "latest_part_start_timestamp": 1565614166.377263,
+    "name": "hosts_google_adservice_id_git_kowith337",
+    "own_management": false,
     "ping": [
-        "kowith337"
+        "@kowith337"
     ],
     "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/test/hosts_google_adservice_id.txt",
-    "stable": "0"
+    "start_datetime": "2019-08-12T12:49:26.373645",
+    "start_timestamp": 1565614166.373645
 }
