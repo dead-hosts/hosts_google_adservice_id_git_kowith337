@@ -69,18 +69,18 @@ less: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referer: https://pyfunceble.funilrys.com/api/no-referer
-    config: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml
-    dir_structure: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json
-    iana: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json
-    mariadb: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mariadb.sql
-    mysql: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/mysql.sql
-    psl: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json
+    config: https://raw.githubusercontent.com/funilrys/PyFunceble/master/.PyFunceble_production.yaml
+    dir_structure: https://raw.githubusercontent.com/funilrys/PyFunceble/master/dir_structure_production.json
+    iana: https://raw.githubusercontent.com/funilrys/PyFunceble/master/iana-domains-db.json
+    mariadb: https://raw.githubusercontent.com/funilrys/PyFunceble/master/db_types/mariadb.sql
+    mysql: https://raw.githubusercontent.com/funilrys/PyFunceble/master/db_types/mysql.sql
+    psl: https://raw.githubusercontent.com/funilrys/PyFunceble/master/public-suffix.json
     repo: https://github.com/funilrys/PyFunceble
-    requirements: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt
-    sqlite: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/sqlite.sql
+    requirements: https://raw.githubusercontent.com/funilrys/PyFunceble/master/requirements.txt
+    sqlite: https://raw.githubusercontent.com/funilrys/PyFunceble/master/db_types/sqlite.sql
 local: false
 logs: true
-maximal_processes: 16
+maximal_processes: 20
 mining: false
 multiprocess: false
 no_files: false
@@ -187,11 +187,11 @@ syntax: false
 travis: true
 travis_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
 travis_autosave_final_commit: '[Final/Result][Dead-Hosts::hosts_google_adservice_id_git_kowith337]
-    | cc @kowith337 | [ci skip]'
+    | cc @kowith337 | '
 travis_autosave_minutes: 10
 travis_branch: master
 unified: false
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
-    Chrome/74.0.3729.157 Safari/537.36
+    Chrome/73.0.3683.86 Safari/537.36
 verify_ssl_certificate: false
 whois_database: true
