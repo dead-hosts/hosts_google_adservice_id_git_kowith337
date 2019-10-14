@@ -2,20 +2,20 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 10.0,
-    "finish_datetime": "2019-10-13T10:47:38.041948",
-    "finish_timestamp": 1570963658.041948,
-    "last_download_datetime": "2019-10-13T10:47:01.979522",
-    "last_download_timestamp": 1570963621.979522,
-    "latest_part_finish_datetime": "2019-10-13T10:47:38.041948",
-    "latest_part_finish_timestamp": 1570963658.041948,
-    "latest_part_start_datetime": "2019-10-13T10:47:02.064132",
-    "latest_part_start_timestamp": 1570963622.064132,
+    "finish_datetime": "2019-10-14T06:28:08.399137",
+    "finish_timestamp": 1571034488.399137,
+    "last_download_datetime": "2019-10-14T06:28:06.505927",
+    "last_download_timestamp": 1571034486.505927,
+    "latest_part_finish_datetime": "2019-10-14T06:28:08.399137",
+    "latest_part_finish_timestamp": 1571034488.399137,
+    "latest_part_start_datetime": "2019-10-14T06:28:06.596212",
+    "latest_part_start_timestamp": 1571034486.596212,
     "name": "hosts_google_adservice_id_git_kowith337",
     "own_management": false,
     "ping": [
         "@kowith337"
     ],
     "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/test/hosts_google_adservice_id.txt",
-    "start_datetime": "2019-10-13T10:47:02.060465",
-    "start_timestamp": 1570963622.060465
+    "start_datetime": "2019-10-14T06:28:06.592443",
+    "start_timestamp": 1571034486.592443
 }

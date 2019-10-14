@@ -11,13 +11,13 @@ command_before_end: ""
 # Set the custom IP to use when we generate a line in the hosts file format.
 custom_ip: "0.0.0.0"
 # Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
-days_between_db_retest: 10
+days_between_db_retest: 1
 # Set the db type to use.
 db_type: json
 # Enable / disable the generation of debug file(s).
 debug: False
 # Enable / disable the DNS Lookup through the TCP protocol.
-dns_lookup_over_tcp: False
+dns_lookup_over_tcp: True
 # Set the DNS server to use. If None is given we use the one given by the OS.
 # Note:
 #   The following format is expected if you want to give custom dns server.
@@ -25,7 +25,7 @@ dns_lookup_over_tcp: False
 #       dns_server:
 #         - "1.1.1.1" # First DNS server.
 #         - "1.0.0.1" # Second DNS server.
-dns_server: 1.0.0.1
+dns_server: null
 # Set the element to filter.
 filter: ""
 # Enable / disable the generation of complements.
