@@ -4,13 +4,13 @@ auto_continue: true
 command: hash dead_hosts_launcher && dead_hosts_launcher --save
 command_before_end: hash dead_hosts_launcher && dead_hosts_launcher --end
 custom_ip: 0.0.0.0
-days_between_db_retest: 10
+days_between_db_retest: 1
 db_type: json
 debug: false
 dns_lookup_over_tcp: true
 dns_server:
-- 1.0.0.1
 - 1.1.1.1
+- 1.0.0.1
 filter: ''
 generate_complements: false
 generate_hosts: true
@@ -64,7 +64,7 @@ http_codes:
         - 204
         - 205
         - 206
-    not_found_default: xxx
+    not_found_default: XXX
 iana_whois_server: whois.iana.org
 idna_conversion: true
 inactive_database: true
