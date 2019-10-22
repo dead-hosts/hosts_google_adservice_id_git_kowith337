@@ -28,6 +28,7 @@
 0.0.0.0 adservice.google.ci
 0.0.0.0 adservice.google.cl
 0.0.0.0 adservice.google.cm
+0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.co.ao
 0.0.0.0 adservice.google.co.bw
 0.0.0.0 adservice.google.co.ck
@@ -68,6 +69,7 @@
 0.0.0.0 adservice.google.com.kh
 0.0.0.0 adservice.google.com.kw
 0.0.0.0 adservice.google.com.lb
+0.0.0.0 adservice.google.com.lc
 0.0.0.0 adservice.google.com.ly
 0.0.0.0 adservice.google.com.mm
 0.0.0.0 adservice.google.com.mt
@@ -265,6 +267,7 @@
 0.0.0.0 id.google.com.kh
 0.0.0.0 id.google.com.kw
 0.0.0.0 id.google.com.lb
+0.0.0.0 id.google.com.lc
 0.0.0.0 id.google.com.ly
 0.0.0.0 id.google.com.mm
 0.0.0.0 id.google.com.mt
