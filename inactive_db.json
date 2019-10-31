@@ -1,9 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_google_adservice_id_git_kowith337/domains.list": {
-        "1571741934": {
-            "adservice.google.ac": "INACTIVE"
-        },
-        "1571741935": {
+        "1572519409": {
+            "adservice.google.ac": "INACTIVE",
             "adservice.google.ad": "INACTIVE",
             "adservice.google.ae": "INACTIVE",
             "adservice.google.al": "INACTIVE",
@@ -12,13 +10,13 @@
             "adservice.google.at": "INACTIVE",
             "adservice.google.az": "INACTIVE",
             "adservice.google.ba": "INACTIVE",
-            "adservice.google.be": "INACTIVE",
+            "adservice.google.be": "INACTIVE"
+        },
+        "1572519410": {
             "adservice.google.bf": "INACTIVE",
             "adservice.google.bg": "INACTIVE",
             "adservice.google.bi": "INACTIVE",
-            "adservice.google.bj": "INACTIVE"
-        },
-        "1571741936": {
+            "adservice.google.bj": "INACTIVE",
             "adservice.google.bs": "INACTIVE",
             "adservice.google.bt": "INACTIVE",
             "adservice.google.by": "INACTIVE",
@@ -30,10 +28,10 @@
             "adservice.google.cg": "INACTIVE",
             "adservice.google.ch": "INACTIVE",
             "adservice.google.ci": "INACTIVE",
-            "adservice.google.cl": "INACTIVE"
+            "adservice.google.cl": "INACTIVE",
+            "adservice.google.cm": "INACTIVE"
         },
-        "1571741937": {
-            "adservice.google.cm": "INACTIVE",
+        "1572519411": {
             "adservice.google.cn": "INACTIVE",
             "adservice.google.co.ao": "INACTIVE",
             "adservice.google.co.bw": "INACTIVE",
@@ -42,11 +40,11 @@
             "adservice.google.co.id": "INACTIVE",
             "adservice.google.co.il": "INACTIVE",
             "adservice.google.co.in": "INACTIVE",
-            "adservice.google.co.jp": "INACTIVE"
-        },
-        "1571741938": {
+            "adservice.google.co.jp": "INACTIVE",
             "adservice.google.co.ke": "INACTIVE",
-            "adservice.google.co.kr": "INACTIVE",
+            "adservice.google.co.kr": "INACTIVE"
+        },
+        "1572519412": {
             "adservice.google.co.ls": "INACTIVE",
             "adservice.google.co.ma": "INACTIVE",
             "adservice.google.com": "INACTIVE",
@@ -57,21 +55,25 @@
             "adservice.google.com.au": "INACTIVE",
             "adservice.google.com.bd": "INACTIVE",
             "adservice.google.com.bh": "INACTIVE",
-            "adservice.google.com.bn": "INACTIVE",
+            "adservice.google.com.bn": "INACTIVE"
+        },
+        "1572519413": {
             "adservice.google.com.bo": "INACTIVE",
             "adservice.google.com.br": "INACTIVE",
             "adservice.google.com.bz": "INACTIVE",
             "adservice.google.com.co": "INACTIVE",
-            "adservice.google.com.cu": "INACTIVE"
-        },
-        "1571741939": {
+            "adservice.google.com.cu": "INACTIVE",
             "adservice.google.com.cy": "INACTIVE",
             "adservice.google.com.do": "INACTIVE",
             "adservice.google.com.ec": "INACTIVE",
-            "adservice.google.com.eg": "INACTIVE",
+            "adservice.google.com.eg": "INACTIVE"
+        },
+        "1572519414": {
             "adservice.google.com.et": "INACTIVE",
             "adservice.google.com.fj": "INACTIVE",
-            "adservice.google.com.gh": "INACTIVE",
+            "adservice.google.com.gh": "INACTIVE"
+        },
+        "1572519415": {
             "adservice.google.com.gi": "INACTIVE",
             "adservice.google.com.gt": "INACTIVE",
             "adservice.google.com.hk": "INACTIVE",
@@ -80,35 +82,32 @@
             "adservice.google.com.kw": "INACTIVE",
             "adservice.google.com.lb": "INACTIVE",
             "adservice.google.com.lc": "INACTIVE",
-            "adservice.google.com.ly": "INACTIVE"
-        },
-        "1571741940": {
+            "adservice.google.com.ly": "INACTIVE",
             "adservice.google.com.mm": "INACTIVE",
             "adservice.google.com.mt": "INACTIVE",
             "adservice.google.com.mx": "INACTIVE",
             "adservice.google.com.my": "INACTIVE",
-            "adservice.google.com.na": "INACTIVE",
+            "adservice.google.com.na": "INACTIVE"
+        },
+        "1572519416": {
             "adservice.google.com.nf": "INACTIVE",
             "adservice.google.com.ng": "INACTIVE",
             "adservice.google.com.ni": "INACTIVE",
             "adservice.google.com.np": "INACTIVE",
             "adservice.google.com.om": "INACTIVE",
             "adservice.google.com.pa": "INACTIVE",
-            "adservice.google.com.pe": "INACTIVE",
+            "adservice.google.com.pe": "INACTIVE"
+        },
+        "1572519417": {
             "adservice.google.com.pg": "INACTIVE",
             "adservice.google.com.ph": "INACTIVE",
             "adservice.google.com.pk": "INACTIVE",
-            "adservice.google.com.pr": "INACTIVE"
-        },
-        "1571741941": {
-            "adservice.google.co.mz": "INACTIVE",
-            "adservice.google.co.nz": "INACTIVE",
-            "adservice.google.co.th": "INACTIVE",
-            "adservice.google.co.tz": "INACTIVE",
-            "adservice.google.co.ug": "INACTIVE",
+            "adservice.google.com.pr": "INACTIVE",
             "adservice.google.com.py": "INACTIVE",
             "adservice.google.com.qa": "INACTIVE",
-            "adservice.google.com.sa": "INACTIVE",
+            "adservice.google.com.sa": "INACTIVE"
+        },
+        "1572519418": {
             "adservice.google.com.sb": "INACTIVE",
             "adservice.google.com.sg": "INACTIVE",
             "adservice.google.com.sl": "INACTIVE",
@@ -121,10 +120,17 @@
             "adservice.google.com.vc": "INACTIVE",
             "adservice.google.com.vn": "INACTIVE"
         },
-        "1571741942": {
+        "1572519419": {
+            "adservice.google.co.mz": "INACTIVE",
+            "adservice.google.co.nz": "INACTIVE",
+            "adservice.google.co.th": "INACTIVE",
+            "adservice.google.co.tz": "INACTIVE",
+            "adservice.google.co.ug": "INACTIVE",
             "adservice.google.co.uk": "INACTIVE",
             "adservice.google.co.uz": "INACTIVE",
-            "adservice.google.co.ve": "INACTIVE",
+            "adservice.google.co.ve": "INACTIVE"
+        },
+        "1572519420": {
             "adservice.google.co.vi": "INACTIVE",
             "adservice.google.co.za": "INACTIVE",
             "adservice.google.co.zm": "INACTIVE",
@@ -134,10 +140,10 @@
             "adservice.google.de": "INACTIVE",
             "adservice.google.dj": "INACTIVE",
             "adservice.google.dk": "INACTIVE",
-            "adservice.google.dm": "INACTIVE",
-            "adservice.google.dz": "INACTIVE"
+            "adservice.google.dm": "INACTIVE"
         },
-        "1571741943": {
+        "1572519421": {
+            "adservice.google.dz": "INACTIVE",
             "adservice.google.ee": "INACTIVE",
             "adservice.google.es": "INACTIVE",
             "adservice.google.fi": "INACTIVE",
@@ -146,19 +152,21 @@
             "adservice.google.ga": "INACTIVE",
             "adservice.google.ge": "INACTIVE",
             "adservice.google.gf": "INACTIVE",
-            "adservice.google.gg": "INACTIVE",
+            "adservice.google.gg": "INACTIVE"
+        },
+        "1572519422": {
             "adservice.google.gl": "INACTIVE",
             "adservice.google.gm": "INACTIVE",
             "adservice.google.gp": "INACTIVE",
-            "adservice.google.gr": "INACTIVE"
-        },
-        "1571741944": {
+            "adservice.google.gr": "INACTIVE",
             "adservice.google.gy": "INACTIVE",
             "adservice.google.hn": "INACTIVE",
             "adservice.google.hr": "INACTIVE",
             "adservice.google.ht": "INACTIVE",
             "adservice.google.hu": "INACTIVE",
-            "adservice.google.ie": "INACTIVE",
+            "adservice.google.ie": "INACTIVE"
+        },
+        "1572519423": {
             "adservice.google.im": "INACTIVE",
             "adservice.google.io": "INACTIVE",
             "adservice.google.iq": "INACTIVE",
@@ -166,9 +174,7 @@
             "adservice.google.it": "INACTIVE",
             "adservice.google.je": "INACTIVE",
             "adservice.google.jo": "INACTIVE",
-            "adservice.google.kg": "INACTIVE"
-        },
-        "1571741945": {
+            "adservice.google.kg": "INACTIVE",
             "adservice.google.ki": "INACTIVE",
             "adservice.google.kz": "INACTIVE",
             "adservice.google.la": "INACTIVE",
@@ -179,15 +185,17 @@
             "adservice.google.lv": "INACTIVE",
             "adservice.google.md": "INACTIVE",
             "adservice.google.me": "INACTIVE",
-            "adservice.google.mg": "INACTIVE",
-            "adservice.google.mk": "INACTIVE",
-            "adservice.google.ml": "INACTIVE"
+            "adservice.google.mg": "INACTIVE"
         },
-        "1571741946": {
+        "1572519424": {
+            "adservice.google.mk": "INACTIVE",
+            "adservice.google.ml": "INACTIVE",
             "adservice.google.mn": "INACTIVE",
             "adservice.google.ms": "INACTIVE",
             "adservice.google.mu": "INACTIVE",
-            "adservice.google.mv": "INACTIVE",
+            "adservice.google.mv": "INACTIVE"
+        },
+        "1572519425": {
             "adservice.google.mw": "INACTIVE",
             "adservice.google.ne": "INACTIVE",
             "adservice.google.nl": "INACTIVE",
@@ -199,12 +207,12 @@
             "adservice.google.ps": "INACTIVE",
             "adservice.google.pt": "INACTIVE",
             "adservice.google.ro": "INACTIVE",
-            "adservice.google.rs": "INACTIVE"
-        },
-        "1571741947": {
+            "adservice.google.rs": "INACTIVE",
             "adservice.google.ru": "INACTIVE",
             "adservice.google.rw": "INACTIVE",
-            "adservice.google.sc": "INACTIVE",
+            "adservice.google.sc": "INACTIVE"
+        },
+        "1572519426": {
             "adservice.google.se": "INACTIVE",
             "adservice.google.sh": "INACTIVE",
             "adservice.google.si": "INACTIVE",
@@ -215,10 +223,10 @@
             "adservice.google.sr": "INACTIVE",
             "adservice.google.st": "INACTIVE",
             "adservice.google.td": "INACTIVE",
-            "adservice.google.tg": "INACTIVE",
-            "adservice.google.tk": "INACTIVE"
+            "adservice.google.tg": "INACTIVE"
         },
-        "1571741948": {
+        "1572519427": {
+            "adservice.google.tk": "INACTIVE",
             "adservice.google.tl": "INACTIVE",
             "adservice.google.tm": "INACTIVE",
             "adservice.google.tn": "INACTIVE",
@@ -227,11 +235,11 @@
             "adservice.google.vg": "INACTIVE",
             "adservice.google.vu": "INACTIVE",
             "adservice.google.ws": "INACTIVE",
-            "id.google.ac": "INACTIVE",
-            "id.google.ad": "INACTIVE",
-            "id.google.ae": "INACTIVE"
+            "id.google.ac": "INACTIVE"
         },
-        "1571741949": {
+        "1572519428": {
+            "id.google.ad": "INACTIVE",
+            "id.google.ae": "INACTIVE",
             "id.google.al": "INACTIVE",
             "id.google.am": "INACTIVE",
             "id.google.as": "INACTIVE",
@@ -243,20 +251,22 @@
             "id.google.bg": "INACTIVE",
             "id.google.bi": "INACTIVE",
             "id.google.bj": "INACTIVE",
-            "id.google.bs": "INACTIVE",
+            "id.google.bs": "INACTIVE"
+        },
+        "1572519429": {
             "id.google.bt": "INACTIVE",
             "id.google.by": "INACTIVE",
             "id.google.ca": "INACTIVE",
             "id.google.cat": "INACTIVE",
-            "id.google.cc": "INACTIVE"
-        },
-        "1571741950": {
+            "id.google.cc": "INACTIVE",
             "id.google.cd": "INACTIVE",
             "id.google.cf": "INACTIVE",
             "id.google.cg": "INACTIVE",
             "id.google.ch": "INACTIVE",
             "id.google.ci": "INACTIVE",
-            "id.google.cl": "INACTIVE",
+            "id.google.cl": "INACTIVE"
+        },
+        "1572519430": {
             "id.google.cm": "INACTIVE",
             "id.google.cn": "INACTIVE",
             "id.google.co.ao": "INACTIVE",
@@ -268,13 +278,13 @@
             "id.google.co.in": "INACTIVE",
             "id.google.co.jp": "INACTIVE",
             "id.google.co.ke": "INACTIVE",
-            "id.google.co.kr": "INACTIVE"
-        },
-        "1571741951": {
+            "id.google.co.kr": "INACTIVE",
             "id.google.co.ls": "INACTIVE",
             "id.google.co.ma": "INACTIVE",
             "id.google.com": "INACTIVE",
-            "id.google.com.af": "INACTIVE",
+            "id.google.com.af": "INACTIVE"
+        },
+        "1572519431": {
             "id.google.com.ag": "INACTIVE",
             "id.google.com.ai": "INACTIVE",
             "id.google.com.ar": "INACTIVE",
@@ -286,12 +296,12 @@
             "id.google.com.br": "INACTIVE",
             "id.google.com.bz": "INACTIVE",
             "id.google.com.co": "INACTIVE",
-            "id.google.com.cu": "INACTIVE"
-        },
-        "1571741952": {
+            "id.google.com.cu": "INACTIVE",
             "id.google.com.cy": "INACTIVE",
             "id.google.com.do": "INACTIVE",
-            "id.google.com.ec": "INACTIVE",
+            "id.google.com.ec": "INACTIVE"
+        },
+        "1572519432": {
             "id.google.com.eg": "INACTIVE",
             "id.google.com.et": "INACTIVE",
             "id.google.com.fj": "INACTIVE",
@@ -303,12 +313,12 @@
             "id.google.com.kh": "INACTIVE",
             "id.google.com.kw": "INACTIVE",
             "id.google.com.lb": "INACTIVE",
-            "id.google.com.lc": "INACTIVE"
-        },
-        "1571741953": {
+            "id.google.com.lc": "INACTIVE",
             "id.google.com.ly": "INACTIVE",
             "id.google.com.mm": "INACTIVE",
-            "id.google.com.mt": "INACTIVE",
+            "id.google.com.mt": "INACTIVE"
+        },
+        "1572519433": {
             "id.google.com.mx": "INACTIVE",
             "id.google.com.my": "INACTIVE",
             "id.google.com.na": "INACTIVE",
@@ -316,16 +326,17 @@
             "id.google.com.ng": "INACTIVE",
             "id.google.com.ni": "INACTIVE",
             "id.google.com.np": "INACTIVE",
-            "id.google.com.om": "INACTIVE"
-        },
-        "1571741954": {
+            "id.google.com.om": "INACTIVE",
             "id.google.com.pa": "INACTIVE",
             "id.google.com.pe": "INACTIVE",
             "id.google.com.pg": "INACTIVE",
             "id.google.com.ph": "INACTIVE",
             "id.google.com.pk": "INACTIVE",
             "id.google.com.pr": "INACTIVE",
-            "id.google.com.py": "INACTIVE",
+            "id.google.com.py": "INACTIVE"
+        },
+        "1572519434": {
+            "id.google.co.mz": "INACTIVE",
             "id.google.com.qa": "INACTIVE",
             "id.google.com.sa": "INACTIVE",
             "id.google.com.sb": "INACTIVE",
@@ -337,10 +348,10 @@
             "id.google.com.tw": "INACTIVE",
             "id.google.com.ua": "INACTIVE",
             "id.google.com.uy": "INACTIVE",
-            "id.google.com.vc": "INACTIVE"
+            "id.google.com.vc": "INACTIVE",
+            "id.google.com.vn": "INACTIVE"
         },
-        "1571741955": {
-            "id.google.co.mz": "INACTIVE",
+        "1572519435": {
             "id.google.co.nz": "INACTIVE",
             "id.google.co.th": "INACTIVE",
             "id.google.co.tz": "INACTIVE",
@@ -352,15 +363,14 @@
             "id.google.co.za": "INACTIVE",
             "id.google.co.zm": "INACTIVE",
             "id.google.co.zw": "INACTIVE",
-            "id.google.com.vn": "INACTIVE",
             "id.google.cv": "INACTIVE",
             "id.google.cz": "INACTIVE",
             "id.google.de": "INACTIVE",
             "id.google.dj": "INACTIVE",
-            "id.google.dk": "INACTIVE",
-            "id.google.dm": "INACTIVE"
+            "id.google.dk": "INACTIVE"
         },
-        "1571741956": {
+        "1572519436": {
+            "id.google.dm": "INACTIVE",
             "id.google.dz": "INACTIVE",
             "id.google.ee": "INACTIVE",
             "id.google.es": "INACTIVE",
@@ -374,14 +384,14 @@
             "id.google.gl": "INACTIVE",
             "id.google.gm": "INACTIVE",
             "id.google.gp": "INACTIVE",
-            "id.google.gr": "INACTIVE",
+            "id.google.gr": "INACTIVE"
+        },
+        "1572519437": {
             "id.google.gy": "INACTIVE",
             "id.google.hn": "INACTIVE",
             "id.google.hr": "INACTIVE",
             "id.google.ht": "INACTIVE",
-            "id.google.hu": "INACTIVE"
-        },
-        "1571741957": {
+            "id.google.hu": "INACTIVE",
             "id.google.ie": "INACTIVE",
             "id.google.im": "INACTIVE",
             "id.google.io": "INACTIVE",
@@ -390,16 +400,16 @@
             "id.google.it": "INACTIVE",
             "id.google.je": "INACTIVE",
             "id.google.jo": "INACTIVE",
-            "id.google.kg": "INACTIVE",
+            "id.google.kg": "INACTIVE"
+        },
+        "1572519438": {
             "id.google.ki": "INACTIVE",
             "id.google.kz": "INACTIVE",
             "id.google.la": "INACTIVE",
             "id.google.li": "INACTIVE",
             "id.google.lk": "INACTIVE",
             "id.google.lt": "INACTIVE",
-            "id.google.lu": "INACTIVE"
-        },
-        "1571741958": {
+            "id.google.lu": "INACTIVE",
             "id.google.lv": "INACTIVE",
             "id.google.md": "INACTIVE",
             "id.google.me": "INACTIVE",
@@ -407,7 +417,9 @@
             "id.google.mk": "INACTIVE",
             "id.google.ml": "INACTIVE",
             "id.google.mn": "INACTIVE",
-            "id.google.ms": "INACTIVE",
+            "id.google.ms": "INACTIVE"
+        },
+        "1572519439": {
             "id.google.mu": "INACTIVE",
             "id.google.mv": "INACTIVE",
             "id.google.mw": "INACTIVE",
@@ -418,13 +430,13 @@
             "id.google.nu": "INACTIVE",
             "id.google.pl": "INACTIVE",
             "id.google.pn": "INACTIVE",
-            "id.google.ps": "INACTIVE"
-        },
-        "1571741959": {
+            "id.google.ps": "INACTIVE",
             "id.google.pt": "INACTIVE",
             "id.google.ro": "INACTIVE",
             "id.google.rs": "INACTIVE",
-            "id.google.ru": "INACTIVE",
+            "id.google.ru": "INACTIVE"
+        },
+        "1572519440": {
             "id.google.rw": "INACTIVE",
             "id.google.sc": "INACTIVE",
             "id.google.se": "INACTIVE",
@@ -436,13 +448,13 @@
             "id.google.so": "INACTIVE",
             "id.google.sr": "INACTIVE",
             "id.google.st": "INACTIVE",
-            "id.google.td": "INACTIVE",
+            "id.google.td": "INACTIVE"
+        },
+        "1572519441": {
             "id.google.tg": "INACTIVE",
             "id.google.tk": "INACTIVE",
             "id.google.tl": "INACTIVE",
-            "id.google.tm": "INACTIVE"
-        },
-        "1571741960": {
+            "id.google.tm": "INACTIVE",
             "id.google.tn": "INACTIVE",
             "id.google.to": "INACTIVE",
             "id.google.tt": "INACTIVE",
