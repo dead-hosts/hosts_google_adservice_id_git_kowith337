@@ -1,10 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_google_adservice_id_git_kowith337/domains.list": {
-        "1575759392": {
+        "1576148871": {
             "adservice.google.cn": "INACTIVE",
-            "adservice.google.com.lc": "INACTIVE"
-        },
-        "1575759393": {
+            "adservice.google.com.lc": "INACTIVE",
             "id.google.com.lc": "INACTIVE"
         }
     },
