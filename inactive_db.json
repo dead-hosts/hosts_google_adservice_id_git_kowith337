@@ -1,24 +1,24 @@
 {
     "/home/travis/build/dead-hosts/hosts_google_adservice_id_git_kowith337/domains.list": {
         "adservice.google.cn": {
-            "included_at_epoch": 1588349624.538814,
-            "included_at_iso": "2020-05-01T16:13:44.538814",
-            "last_retested_at_epoch": 1590178114.642939,
-            "last_retested_at_iso": "2020-05-22T20:08:34.642939",
+            "included_at_epoch": 1591214325.389494,
+            "included_at_iso": "2020-06-03T19:58:45.389494",
+            "last_retested_at_epoch": 1591214325.389494,
+            "last_retested_at_iso": "2020-06-03T19:58:45.389494",
             "status": "INACTIVE"
         },
         "adservice.google.com.lc": {
-            "included_at_epoch": 1588349624.607058,
-            "included_at_iso": "2020-05-01T16:13:44.607058",
-            "last_retested_at_epoch": 1590178114.694807,
-            "last_retested_at_iso": "2020-05-22T20:08:34.694807",
+            "included_at_epoch": 1591214325.457592,
+            "included_at_iso": "2020-06-03T19:58:45.457592",
+            "last_retested_at_epoch": 1591214325.457592,
+            "last_retested_at_iso": "2020-06-03T19:58:45.457592",
             "status": "INACTIVE"
         },
         "id.google.com.lc": {
-            "included_at_epoch": 1588349624.862681,
-            "included_at_iso": "2020-05-01T16:13:44.862681",
-            "last_retested_at_epoch": 1590178114.931488,
-            "last_retested_at_iso": "2020-05-22T20:08:34.931488",
+            "included_at_epoch": 1591214325.729735,
+            "included_at_iso": "2020-06-03T19:58:45.729735",
+            "last_retested_at_epoch": 1591214325.729735,
+            "last_retested_at_iso": "2020-06-03T19:58:45.729735",
             "status": "INACTIVE"
         }
     },
