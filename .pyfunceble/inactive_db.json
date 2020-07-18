@@ -3,22 +3,22 @@
         "adservice.google.cn": {
             "included_at_epoch": 1593807280.020975,
             "included_at_iso": "2020-07-03T20:14:40.020975",
-            "last_retested_at_epoch": 1594635696.198064,
-            "last_retested_at_iso": "2020-07-13T10:21:36.198064",
+            "last_retested_at_epoch": 1595067835.115616,
+            "last_retested_at_iso": "2020-07-18T10:23:55.115616",
             "status": "INACTIVE"
         },
         "adservice.google.com.lc": {
             "included_at_epoch": 1593807280.085101,
             "included_at_iso": "2020-07-03T20:14:40.085101",
-            "last_retested_at_epoch": 1594635696.266629,
-            "last_retested_at_iso": "2020-07-13T10:21:36.266629",
+            "last_retested_at_epoch": 1595067835.185983,
+            "last_retested_at_iso": "2020-07-18T10:23:55.185983",
             "status": "INACTIVE"
         },
         "id.google.com.lc": {
             "included_at_epoch": 1593807280.334641,
             "included_at_iso": "2020-07-03T20:14:40.334641",
-            "last_retested_at_epoch": 1594635696.497,
-            "last_retested_at_iso": "2020-07-13T10:21:36.497000",
+            "last_retested_at_epoch": 1595067835.416775,
+            "last_retested_at_iso": "2020-07-18T10:23:55.416775",
             "status": "INACTIVE"
         }
     },
