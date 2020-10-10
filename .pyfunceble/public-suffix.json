@@ -1766,7 +1766,8 @@
         "org.gn"
     ],
     "goog": [
-        "cloud.goog"
+        "cloud.goog",
+        "translate.goog"
     ],
     "gp": [
         "app.gp",
@@ -7191,6 +7192,7 @@
     ],
     "sh": [
         "bc.platform.sh",
+        "bip.sh",
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
@@ -8060,6 +8062,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "fhapp.xyz",
+        "localzone.xyz",
         "telebit.xyz",
         "zapto.xyz"
     ],
