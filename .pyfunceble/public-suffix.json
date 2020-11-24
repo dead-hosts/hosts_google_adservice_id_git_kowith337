@@ -169,6 +169,7 @@
         "hasura.app",
         "loginline.app",
         "netlify.app",
+        "ondigitalocean.app",
         "platform0.app",
         "run.app",
         "telebit.app",
@@ -809,11 +810,14 @@
         "linkyard.cloud",
         "magentosite.cloud",
         "on-rancher.cloud",
+        "oxa.cloud",
         "perspecta.cloud",
         "primetel.cloud",
         "sensiosite.cloud",
         "statics.cloud",
+        "tn.oxa.cloud",
         "trafficplex.cloud",
+        "uk.oxa.cloud",
         "uk.primetel.cloud",
         "uk.reclaim.cloud",
         "urown.cloud",
@@ -1963,7 +1967,7 @@
     "id": [
         "ac.id",
         "biz.id",
-        "bloghp.id",
+        "bloger.id",
         "blogspot.co.id",
         "co.id",
         "desa.id",
@@ -2572,6 +2576,7 @@
     "je": [
         "co.je",
         "net.je",
+        "of.je",
         "org.je"
     ],
     "jm": [
@@ -7121,6 +7126,7 @@
         "kalmykia.ru",
         "kustanai.ru",
         "landing.myjino.ru",
+        "lk3.ru",
         "marine.ru",
         "mcdir.ru",
         "mil.ru",
@@ -7136,6 +7142,7 @@
         "org.ru",
         "pp.ru",
         "pyatigorsk.ru",
+        "ra-ru.ru",
         "ras.ru",
         "spb.ru",
         "spectrum.myjino.ru",
@@ -7143,7 +7150,8 @@
         "vladikavkaz.ru",
         "vladimir.ru",
         "vps.mcdir.ru",
-        "vps.myjino.ru"
+        "vps.myjino.ru",
+        "zsew.ru"
     ],
     "run": [
         "development.run",
@@ -7523,6 +7531,7 @@
         "mincom.tn",
         "nat.tn",
         "net.tn",
+        "orangecloud.tn",
         "org.tn",
         "perso.tn",
         "rnrt.tn",
