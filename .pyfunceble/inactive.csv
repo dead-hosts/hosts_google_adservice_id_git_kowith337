@@ -1,0 +1,4 @@
+idna_subject,checker_type,destination,source,tested_at
+adservice.google.cn,AVAILABILITY,origin.list,/home/runner/work/hosts_google_adservice_id_git_kowith337/hosts_google_adservice_id_git_kowith337/origin.list,2021-01-13 20:29:18.855771
+adservice.google.com.lc,AVAILABILITY,origin.list,/home/runner/work/hosts_google_adservice_id_git_kowith337/hosts_google_adservice_id_git_kowith337/origin.list,2021-01-13 20:32:39.227683
+id.google.com.lc,AVAILABILITY,origin.list,/home/runner/work/hosts_google_adservice_id_git_kowith337/hosts_google_adservice_id_git_kowith337/origin.list,2021-01-13 20:46:36.737726
