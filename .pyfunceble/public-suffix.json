@@ -1211,6 +1211,7 @@
         "firebaseapp.com",
         "freebox-os.com",
         "freeboxos.com",
+        "freemyip.com",
         "gentapps.com",
         "gentlentapis.com",
         "githubusercontent.com",
@@ -1355,6 +1356,7 @@
         "bounty-full.com",
         "alpha.bounty-full.com",
         "beta.bounty-full.com",
+        "try-snowplow.com",
         "stackhero-network.com",
         "playstation-cloud.com",
         "api.stdlib.com",
@@ -2127,8 +2129,6 @@
         "stolos.io",
         "spacekit.io",
         "utwente.io",
-        "applicationcloud.io",
-        "scapp.io",
         "s5y.io",
         "telebit.io",
         "cust.dev.thingdust.io",
@@ -5464,6 +5464,7 @@
         "uk.net",
         "in.net",
         "clic2000.net",
+        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -5591,6 +5592,8 @@
         "serveminecraft.net",
         "sytes.net",
         "cloudycluster.net",
+        "webpaas.ovh.net",
+        "hosting.ovh.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -8170,7 +8173,12 @@
         "telebit.xyz"
     ],
     "ye": [
-        "ye"
+        "com.ye",
+        "edu.ye",
+        "gov.ye",
+        "net.ye",
+        "mil.ye",
+        "org.ye"
     ],
     "yt": [
         "org.yt"
