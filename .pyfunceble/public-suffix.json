@@ -166,15 +166,19 @@
     ],
     "app": [
         "wnext.app",
+        "multibaas.app",
         "platform0.app",
         "ondigitalocean.app",
+        "edgecompute.app",
         "fireweb.app",
+        "framer.app",
         "run.app",
         "a.run.app",
         "web.app",
         "hasura.app",
         "loginline.app",
         "netlify.app",
+        "northflank.app",
         "telebit.app",
         "vercel.app"
     ],
@@ -325,6 +329,7 @@
         "webhosting.be",
         "blogspot.be",
         "cloud.interhostsolutions.be",
+        "ezproxy.kuleuven.be",
         "transurl.be"
     ],
     "bf": [
@@ -678,6 +683,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -701,9 +709,9 @@
         "edu.bz",
         "gov.bz",
         "za.bz",
+        "gsj.bz",
         "nom.bz",
-        "nym.bz",
-        "gsj.bz"
+        "nym.bz"
     ],
     "ca": [
         "ab.ca",
@@ -801,7 +809,8 @@
         "jele.cloud",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
-        "it1-eur.jenv-arubabiz.cloud",
+        "keliweb.cloud",
+        "cs.keliweb.cloud",
         "oxa.cloud",
         "tn.oxa.cloud",
         "uk.oxa.cloud",
@@ -812,6 +821,7 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
+        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
@@ -909,12 +919,14 @@
         "mypi.co",
         "n4t.co",
         "nodum.co",
-        "repl.co"
+        "repl.co",
+        "id.repl.co"
     ],
     "codes": [
         "owo.codes"
     ],
     "com": [
+        "devcdnaccesso.com",
         "adobeaemcloud.com",
         "dev.adobeaemcloud.com",
         "kasserver.com",
@@ -940,6 +952,7 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "awsglobalaccelerator.com",
         "s3.amazonaws.com",
         "s3-ap-northeast-1.amazonaws.com",
         "s3-ap-northeast-2.amazonaws.com",
@@ -993,11 +1006,15 @@
         "s3-website.eu-west-2.amazonaws.com",
         "s3-website.eu-west-3.amazonaws.com",
         "s3-website.us-east-2.amazonaws.com",
+        "appspacehosted.com",
+        "appspaceusercontent.com",
         "on-aptible.com",
         "myasustor.com",
         "balena-devices.com",
         "betainabox.com",
+        "boutir.com",
         "bplaced.com",
+        "cafjs.com",
         "br.com",
         "cn.com",
         "de.com",
@@ -1024,6 +1041,7 @@
         "cloudcontrolled.com",
         "cloudcontrolapp.com",
         "trycloudflare.com",
+        "multibaas.com",
         "customer-oci.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -1209,6 +1227,8 @@
         "fastvps-server.com",
         "mydobiss.com",
         "firebaseapp.com",
+        "forgeblocks.com",
+        "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
         "freemyip.com",
@@ -1230,17 +1250,15 @@
         "herokuapp.com",
         "herokussl.com",
         "myravendb.com",
+        "impertrixcdn.com",
+        "impertrix.com",
         "smushcdn.com",
         "wphostedmail.com",
         "wpmucdn.com",
         "pixolino.com",
+        "amscompute.com",
         "clicketcloud.com",
-        "ams.cloudswitches.com",
-        "au.cloudswitches.com",
-        "sg.cloudswitches.com",
         "dopaas.com",
-        "elastyco.com",
-        "nv.elastyco.com",
         "hidora.com",
         "paas.hosted-by-previder.com",
         "rag-cloud.hosteur.com",
@@ -1261,6 +1279,7 @@
         "linodeobjects.com",
         "barsycenter.com",
         "barsyonline.com",
+        "mazeplay.com",
         "miniserver.com",
         "meteorapp.com",
         "eu.meteorapp.com",
@@ -1327,10 +1346,13 @@
         "pgfog.com",
         "pagefrontapp.com",
         "pagexl.com",
+        "paywhirl.com",
         "gotpantheon.com",
         "platter-app.com",
         "pleskns.com",
         "xen.prgmr.com",
+        "pythonanywhere.com",
+        "eu.pythonanywhere.com",
         "qualifioapp.com",
         "qbuser.com",
         "qa2.com",
@@ -1373,14 +1395,12 @@
         "remotewd.com",
         "pages.wiardweb.com",
         "woltlab-demo.com",
+        "wpenginepowered.com",
+        "js.wpenginepowered.com",
         "xnbay.com",
         "u2.xnbay.com",
         "u2-local.xnbay.com",
-        "yolasite.com",
-        "wpenginepowered.com",
-        "js.wpenginepowered.com",
-        "impertrixcdn.com",
-        "impertrix.com"
+        "yolasite.com"
     ],
     "community": [
         "ravendb.community",
@@ -1522,7 +1542,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -1533,6 +1555,7 @@
         "iserv.dev",
         "loginline.dev",
         "platter-app.dev",
+        "shiftcrypto.dev",
         "vercel.dev",
         "webhare.dev"
     ],
@@ -1657,7 +1680,6 @@
         "mycd.eu",
         "cloudns.eu",
         "jelastic.dogado.eu",
-        "paas.leviracloud.eu",
         "barsy.eu",
         "wellbeingzone.eu",
         "spdns.eu",
@@ -1863,6 +1885,9 @@
         "nym.gy",
         "be.gy"
     ],
+    "health": [
+        "hra.health"
+    ],
     "hk": [
         "com.hk",
         "edu.hk",
@@ -2010,6 +2035,7 @@
         "muni.il",
         "net.il",
         "org.il",
+        "ravpage.co.il",
         "blogspot.co.il"
     ],
     "im": [
@@ -2088,6 +2114,7 @@
         "customer.enonic.io",
         "fh-muenster.io",
         "shw.io",
+        "id.forgerock.io",
         "ghost.io",
         "github.io",
         "gitlab.io",
@@ -2095,10 +2122,9 @@
         "hasura-app.io",
         "hostyhosting.io",
         "moonscale.io",
+        "paas.beebyte.io",
+        "sekd1.beebyteapp.io",
         "jele.io",
-        "ocs.opusinteractive.io",
-        "cloud.unispace.io",
-        "cloud-de.unispace.io",
         "cloud-fr1.unispace.io",
         "webthings.io",
         "loginline.io",
@@ -2123,6 +2149,7 @@
         "devices.resinstaging.io",
         "hzc.io",
         "sandcats.io",
+        "shiftcrypto.io",
         "shiftedit.io",
         "mo-siemens.io",
         "apps.lair.io",
@@ -4701,6 +4728,7 @@
         "lohmus.me",
         "barsy.me",
         "mcpe.me",
+        "mcdir.me",
         "nctu.me",
         "soundcast.me",
         "tcp4.me",
@@ -4717,6 +4745,7 @@
         "i234.me",
         "myds.me",
         "synology.me",
+        "tbits.me",
         "wbq.me",
         "wedeploy.me",
         "yombo.me",
@@ -5397,17 +5426,17 @@
         "edu.mx",
         "net.mx",
         "blogspot.mx",
-        "jl.serv.net.mx",
         "nym.mx"
     ],
     "my": [
+        "biz.my",
         "com.my",
-        "net.my",
-        "org.my",
-        "gov.my",
         "edu.my",
+        "gov.my",
         "mil.my",
         "name.my",
+        "net.my",
+        "org.my",
         "blogspot.my"
     ],
     "mz": [
@@ -5540,10 +5569,10 @@
         "cloudjiffy.net",
         "fra1-de.cloudjiffy.net",
         "west1-us.cloudjiffy.net",
-        "ams1.jls.docktera.net",
         "jls-sto1.elastx.net",
         "jls-sto2.elastx.net",
         "jls-sto3.elastx.net",
+        "faststacks.net",
         "fr-1.paas.massivegrid.net",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
@@ -5554,8 +5583,6 @@
         "nordeste-idc.saveincloud.net",
         "j.scaleforce.net",
         "jelastic.tsukaeru.net",
-        "atl.jelastic.vps-host.net",
-        "njs.jelastic.vps-host.net",
         "kinghost.net",
         "uni5.net",
         "krellian.net",
@@ -5603,10 +5630,16 @@
         "seidat.net",
         "senseering.net",
         "siteleaf.net",
+        "vps-host.net",
+        "atl.jelastic.vps-host.net",
+        "njs.jelastic.vps-host.net",
+        "ric.jelastic.vps-host.net",
         "soc.srcf.net",
         "user.srcf.net",
         "dsmynas.net",
         "familyds.net",
+        "torproject.net",
+        "pages.torproject.net",
         "fastblog.net",
         "community-pro.net",
         "meinforum.net",
@@ -5621,6 +5654,9 @@
         "arvo.network",
         "azimuth.network",
         "tlon.network"
+    ],
+    "news": [
+        "noticeable.news"
     ],
     "nf": [
         "com.nf",
@@ -6692,7 +6728,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
@@ -6948,6 +6985,7 @@
         "zgorzelec.pl",
         "beep.pl",
         "shoparena.pl",
+        "sdscloud.pl",
         "unicloud.pl",
         "krasnik.pl",
         "leczna.pl",
@@ -7124,6 +7162,7 @@
         "int.ru",
         "mil.ru",
         "test.ru",
+        "eurodir.ru",
         "adygeya.ru",
         "bashkiria.ru",
         "bir.ru",
@@ -7154,6 +7193,7 @@
         "vps.myjino.ru",
         "hb.cldmail.ru",
         "mcdir.ru",
+        "mcpre.ru",
         "vps.mcdir.ru",
         "net.ru",
         "org.ru",
@@ -7167,6 +7207,7 @@
         "hs.run",
         "development.run",
         "ravendb.run",
+        "code.run",
         "repl.run"
     ],
     "rw": [
@@ -7210,7 +7251,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7315,11 +7357,13 @@
         "lelux.site",
         "loginline.site",
         "barsy.site",
+        "mintere.site",
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
+        "tst.site",
         "byen.site",
-        "mintere.site"
+        "srht.site"
     ],
     "sk": [
         "blogspot.sk",
@@ -7732,11 +7776,11 @@
         "cc.ua",
         "inf.ua",
         "ltd.ua",
+        "cx.ua",
         "biz.ua",
         "co.ua",
         "pp.ua",
-        "v.ua",
-        "cx.ua"
+        "v.ua"
     ],
     "ug": [
         "co.ug",
@@ -8013,12 +8057,12 @@
         "mus.mi.us",
         "tec.mi.us",
         "washtenaw.mi.us",
+        "graphox.us",
         "cloudns.us",
         "drud.us",
         "is-by.us",
         "land-4-sale.us",
         "stuff-4-sale.us",
-        "graphox.us",
         "phx.enscaled.us",
         "mircloud.us",
         "freeddns.us",
