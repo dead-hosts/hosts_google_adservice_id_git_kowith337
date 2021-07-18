@@ -2,3 +2,8 @@ idna_subject,checker_type,destination,tested_at
 adservice.google.cn,AVAILABILITY,origin.list,2021-07-07 21:19:54.305147
 adservice.google.com.lc,AVAILABILITY,origin.list,2021-07-07 21:20:01.539445
 id.google.com.lc,AVAILABILITY,origin.list,2021-07-07 21:20:08.589414
+adservice.google.ai,AVAILABILITY,origin.list,2021-07-18 00:40:27.057906
+adservice.google.com.cn,AVAILABILITY,origin.list,2021-07-18 00:46:04.047478
+adservice.google.frl,AVAILABILITY,origin.list,2021-07-18 00:52:04.066072
+adservice.google.ir,AVAILABILITY,origin.list,2021-07-18 00:53:52.749133
+adservice.google.net,AVAILABILITY,origin.list,2021-07-18 00:56:19.237296
