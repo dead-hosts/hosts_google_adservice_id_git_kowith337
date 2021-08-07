@@ -1,13 +1,13 @@
 idna_subject,checker_type,destination,tested_at
-adservice.google.ai,AVAILABILITY,origin.list,2021-07-28 04:49:52.361937
-adservice.google.com.cn,AVAILABILITY,origin.list,2021-07-28 04:49:59.155797
-adservice.google.frl,AVAILABILITY,origin.list,2021-07-28 04:50:06.110136
-adservice.google.ir,AVAILABILITY,origin.list,2021-07-28 04:50:14.715314
-adservice.google.net,AVAILABILITY,origin.list,2021-07-28 04:50:21.170250
-id.google.ai,AVAILABILITY,origin.list,2021-07-28 04:50:29.766411
-id.google.frl,AVAILABILITY,origin.list,2021-07-28 04:50:36.690194
-id.google.ir,AVAILABILITY,origin.list,2021-07-28 04:50:44.759869
-id.google.net,AVAILABILITY,origin.list,2021-07-28 04:50:51.195940
-adservice.google.cn,AVAILABILITY,origin.list,2021-07-28 04:50:57.725600
-adservice.google.com.lc,AVAILABILITY,origin.list,2021-07-28 04:51:07.043605
-id.google.com.lc,AVAILABILITY,origin.list,2021-07-28 04:51:14.409432
+adservice.google.ai,AVAILABILITY,origin.list,2021-08-07 09:11:31.027097
+adservice.google.com.cn,AVAILABILITY,origin.list,2021-08-07 09:11:37.462014
+adservice.google.frl,AVAILABILITY,origin.list,2021-08-07 09:11:43.915800
+adservice.google.ir,AVAILABILITY,origin.list,2021-08-07 09:11:51.242587
+adservice.google.net,AVAILABILITY,origin.list,2021-08-07 09:11:57.556372
+id.google.ai,AVAILABILITY,origin.list,2021-08-07 09:12:04.024327
+id.google.frl,AVAILABILITY,origin.list,2021-08-07 09:12:10.763944
+id.google.ir,AVAILABILITY,origin.list,2021-08-07 09:12:17.826197
+id.google.net,AVAILABILITY,origin.list,2021-08-07 09:12:24.198819
+adservice.google.cn,AVAILABILITY,origin.list,2021-08-07 09:12:30.585541
+adservice.google.com.lc,AVAILABILITY,origin.list,2021-08-07 09:12:36.889821
+id.google.com.lc,AVAILABILITY,origin.list,2021-08-07 09:12:43.290500
