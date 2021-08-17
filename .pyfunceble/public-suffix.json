@@ -3138,6 +3138,7 @@
         "isshiki.aichi.jp",
         "isumi.chiba.jp",
         "itabashi.tokyo.jp",
+        "itako.ibaraki.jp",
         "itakura.gunma.jp",
         "itami.hyogo.jp",
         "itano.tokushima.jp",
@@ -4856,6 +4857,7 @@
         "tbits.me",
         "tcp4.me",
         "ukco.me",
+        "vp4.me",
         "wbq.me",
         "webhop.me",
         "wedeploy.me",
@@ -4894,7 +4896,6 @@
         "edu.ml",
         "gouv.ml",
         "gov.ml",
-        "itako.ibaraki.jp",
         "net.ml",
         "org.ml",
         "presse.ml"
@@ -5813,6 +5814,7 @@
     ],
     "ni": [
         "ac.ni",
+        "balat.no",
         "biz.ni",
         "co.ni",
         "com.ni",
