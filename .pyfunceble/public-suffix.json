@@ -1871,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -4546,6 +4547,7 @@
         "静岡.jp",
         "香川.jp",
         "高知.jp",
+        "鳥取.jp",
         "鹿児島.jp"
     ],
     "ke": [
@@ -5634,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -7912,6 +7913,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
