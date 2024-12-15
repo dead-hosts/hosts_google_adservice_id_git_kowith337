@@ -16,6 +16,7 @@
     "ping": [
         "@kowith337"
     ],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "hosts_google_adservice_id_git_kowith337",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
